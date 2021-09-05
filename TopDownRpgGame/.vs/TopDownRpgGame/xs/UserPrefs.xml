@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{056C7F35-78BF-0EC4-8056-24DF8D7AC5AE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraMotor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="36" Column="1" />
+      <File FileName="Assets/CameraMotor.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopDownRpgGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d55c829-0665-47db-8691-557adecd79b7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
